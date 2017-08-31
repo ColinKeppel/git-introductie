@@ -1,11 +1,10 @@
 
 
-#over Jeroen
+#over Colin
 
-**Voornaam:** Jeroen
+**Voornaam:** Colin
 
-**Achternaam:** Slemmer
+**Achternaam:** Keppel		
 
-**E-mail adres:** [Jeroen Slemmer](jslemmer@davinci.nl)
 
 **Telefoon:** 0612345678
